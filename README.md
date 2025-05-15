@@ -1,0 +1,1 @@
+#gelistirme notlari
